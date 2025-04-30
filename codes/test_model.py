@@ -9,7 +9,7 @@ import pickle  # 用于加载保存的模型文件（pickle 格式）
 model = nn.models.Model_MLP()
 
 # 从保存的模型文件中加载训练好的权重参数
-model.load_model(r'./codes/saved_models/best_model.pickle')
+model.load_model(r'./codes/saved_models/general_model_mlp_128.pickle')
 
 # 测试图片的路径（MNIST 测试集图像，gzip 格式）
 test_images_path = r'./codes/dataset/MNIST/t10k-images-idx3-ubyte.gz'
