@@ -145,13 +145,13 @@
 
 ### 7.1 代码链接
 
-> [GitHub 仓库地址（示例）](https://github.com/yourusername/nn-mnist-from-scratch)
+> [GitHub 仓库地址](https://github.com/Snowie1027/NN-pj1)
 
 ### 7.2 数据与模型权重下载
 
 > 数据集已集成于 `dataset/MNIST` 文件夹  
 > 模型权重文件存储于 `saved_models/` 与 `best_models/` 中
-
+>[数据集与模型权重](https://drive.google.com/drive/folders/1CuHjaBsuGuZEXRcQvxnmWBgK4zZBdf0-?usp=sharing)
 ---
 
 感谢阅读！
